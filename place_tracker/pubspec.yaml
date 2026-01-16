@@ -20,6 +20,10 @@ dev_dependencies:
     path: ../analysis_defaults
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.14.0
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/icon.jpg"
 flutter:
   assets:
     - assets/
